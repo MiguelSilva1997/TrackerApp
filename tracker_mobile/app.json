@@ -1,0 +1,12 @@
+{
+  "name": "tracker_mobile",
+  "displayName": "tracker_mobile",
+  "expo": {
+    "name": "tracker_mobile",
+    "slug": "tracker_mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
